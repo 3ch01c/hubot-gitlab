@@ -16,7 +16,7 @@
     "gitlab": "^1.2.1"
   },
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "3.x"
   },
   "devDependencies": {
     "chai": "^2.1.1",
@@ -26,7 +26,7 @@
     "grunt-contrib-watch": "~0.6.1",
     "grunt-mocha-test": "~0.12.7",
     "grunt-release": "~0.11.0",
-    "hubot": "2.x",
+    "hubot": "3.x",
     "matchdep": "~0.3.0",
     "mocha": "^2.1.0",
     "gitlab": "^1.2.1",
